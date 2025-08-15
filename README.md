@@ -23,7 +23,7 @@ Análise da qualidade da água no Brasil usando dados públicos
 - **Metodologia:** Web scraping + análise geoespacial
 
 ### 🌳 [Dashboard IBAMA](https://github.com/reichaves/ibama_dashboard)
-Análise de multas ambientais do IBAMA cruzadas com doações de deputados federais
+Análise de multas ambientais do IBAMA com diversas visualizações e tecnologias de IA (Chatbot, RAG, Groq, Google Gemini)
 - **Tech Stack:** Python, Data Analysis, Dashboard
 - **Foco:** Transparência ambiental e fiscalização
 
