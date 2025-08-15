@@ -61,7 +61,7 @@ Analisador de desinformação para Bluesky (Hackathon Bellingcat)
 ## 📫 Vamos Conversar?
 
 - 💼 **LinkedIn:** [reinaldochaves](https://www.linkedin.com/in/reinaldochaves/)
-- 📧 **Email:** [seu-email]
+- 📧 **Email:** [reichaves@gmail.com]
 
 ---
 
