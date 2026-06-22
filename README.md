@@ -34,10 +34,10 @@ An MCP server that connects the OpenFEC API to AI assistants, letting you invest
 - **Tech Stack:** Python, FastMCP, OpenFEC API
 - **Focus:** Campaign-finance investigation for journalists
 
-### ⚓ [Anchor MCP](https://github.com/reichaves/anchor_mcp)
-The MCP server companion to Anchor Journalism, exposing World Bank data access to AI assistants such as Claude
-- **Tech Stack:** Python, MCP, World Bank data
-- **Focus:** Open infrastructure for AI-assisted data reporting
+### 🏛️ [Legislative Monitor — Journalism in Congress](https://github.com/reichaves/congresso_monitor_jornalismo)
+An independent tool that automatically tracks bills in Brazil's Chamber of Deputies and Federal Senate that mention journalism-related topics. It collects proposals Monday–Saturday, filters by 16 keywords (press freedom, fake news, transparency, NGOs), deduplicates, logs only new developments to Google Sheets, and emails personalized HTML reports to subscribers
+- **Tech Stack:** Python, Streamlit, GitHub Actions, Google Sheets, Câmara/Senado APIs
+- **Focus:** Press-freedom legislative monitoring (serverless, zero-cost)
 
 ### 🕵️ [Due Diligence Transnacional](https://github.com/reichaves/due-diligence-transnacional)
 A CLI pipeline that cross-references any name with U.S. ties against U.S. public databases, producing a source-cited, confidence-scored PDF dossier. Optimized for Brazilian and Latin American names; works for any origin country
