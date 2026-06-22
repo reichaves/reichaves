@@ -6,7 +6,7 @@ Specialist in **investigative journalism** and **public-data analysis**, focused
 
 ```
 📍 São Paulo, Brazil
-🏢 Abraji — Coordinator of AI, Data & Technology Projects
+🏢 Abraji — Coordinator of Projects
 🔗 LinkedIn: linkedin.com/in/reinaldochaves
 ```
 
